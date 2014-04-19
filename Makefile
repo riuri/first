@@ -1,4 +1,4 @@
 CC = gcc
 CFLAGS += -Wall
 
-hello: hello.o
+hello: hello.c
