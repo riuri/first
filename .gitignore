@@ -1,2 +1,10 @@
 autom4te.cache
 aclocal.m4
+.deps
+Makefile
+configure
+build-aux
+hello
+hello.o
+config.log
+config.status
