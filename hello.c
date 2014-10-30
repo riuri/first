@@ -2,6 +2,6 @@
 
 int main()
 {
-	puts("Hello, people!");
+	puts("Hello, people!"); /* Preferred over printf */
 	return 0;
 }
